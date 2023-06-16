@@ -1,0 +1,78 @@
+*{
+    background-color: #ffe0ff;
+}
+
+body {
+    height:665px;
+    background-image: url("../image/fondo.gif");
+    background-size: 10rem;
+    
+  }
+
+.logo{
+    height: 100px;
+    width: 100px;
+    max-width: 100%;
+    
+}
+
+div{
+    display: block;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.box_1{
+    align-items: center;
+    display: flex;
+}
+
+.box_2{
+    align-items: center;
+}
+
+
+.imageFigura{
+    margin-left: 2%;
+}
+
+.figuras{
+    display:inline-flex;
+    margin-left: 22%;
+    margin-top: 10%;
+    
+}
+
+.names{
+    display: flex;
+    margin-left: 22%;
+    margin-top: 2%;
+    
+}
+
+.name_1{
+    margin-left: 7%;
+    
+}
+
+.name_2{
+    margin-left: 11%;
+}
+
+.name_3{
+    margin-left: 10%;
+}
+
+.name_4{
+    margin-left: 11%;
+}
+
+
+.geometrica{
+    height: 200px;
+    width: 200px;
+
+}
+p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+}
